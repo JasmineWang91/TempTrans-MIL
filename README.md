@@ -4,7 +4,7 @@ This dataset is designed for simulating a tumor depth estimation task using robo
 
 The task is formulated as a **12-class classification problem**, where each class represents a specific depth of the tumor within the phantom tissue. This dataset can be used for developing, training, and testing machine learning models for tactile-driven robotic manipulation and tumor depth estimation.
 
-## Dataset Overview
+## Robotic Palpation Experiment Overview
 
 - **Task Type**: 12-class classification problem
 - **Sensor Used**: BarrettHand tactile sensor
@@ -16,7 +16,7 @@ The task is formulated as a **12-class classification problem**, where each clas
 
 ## Dataset Features
 
-The dataset consists of tactile array data and torque measurements captured by the BarrettHand sensor during the robotic palpation process. These measurements are taken from all three fingers of the hand during each palpation attempt. The dataset includes the following key features:
+The dataset consists of tactile array data and torque measurements captured by the BarrettHand sensor during the robotic palpation process. These measurements are taken from all three fingers of the BarrettHand during each palpation attempt. The dataset includes the following key features:
 
 - **Tactile Array Data**: Pressure and displacement readings from the tactile sensors on each of the three fingers of the BarrettHand.
 - **Torque Data**: Rotational force data for each of the three fingers, representing the amount of torque applied during the palpation.
