@@ -7,10 +7,10 @@ The task is formulated as a **12-class classification problem**, where each clas
 ## Download Links
 
 - **Dataset**: You can download the dataset from the following link:  
-  [Download Robotic Palpation Dataset](https://www.dropbox.com/home/Robatic%20Palpation%20Dataset)
+  [Download Robotic Palpation Dataset](https://www.dropbox.com/scl/fo/7jyd761u379t9wn4ufmni/ANDrExBK_05romYmLeuaYK0?rlkey=b1r9bo3x10rs6w7givf2vx991&st=9rt5cnzi&dl=0)
   
 - **Experiment Video**: You can view and download the related video of the robotic palpation experiment here:  
-  [Download Robotic Palpation Experiment Video](https://www.dropbox.com/home/Robatic%20Palpation%20Dataset/Robotic%20Palpation%20Experiment%20Video)
+  [Download Robotic Palpation Experiment Video](https://www.dropbox.com/scl/fo/f3y71eg2fa61tiopj1fuw/AHmlriPsBaM84q33anXDFTI?rlkey=jvdrbx744ixrq5l0ki9kixef6&st=8hpluqte&dl=0)
 
 ## Robotic Palpation Experiment Overview
 
